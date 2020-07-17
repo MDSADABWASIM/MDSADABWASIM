@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine learning
+- 🌱 I’m currently learning Maths behind machine learning
+- 📫 How to reach me: [Twitter - @sadab_wasim](https://twitter.com/sadab_wasim)
+
 <!--
 **MDSADABWASIM/MDSADABWASIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
