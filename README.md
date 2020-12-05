@@ -12,12 +12,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MDSADABWASIM&show_icons=true" alt="MDSADABWASIM" /> </p>
+[<img src="https://github-profile-trophy.vercel.app/?username=MDSADABWASIM&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=MDSADABWASIM&count_private=true&include_all_commits=true&show_icons=true" />
 
 
 <!--
 **MDSADABWASIM/MDSADABWASIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
