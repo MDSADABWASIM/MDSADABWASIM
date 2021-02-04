@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine learning.
 - ⚡ I’m currently learning Maths behind machine learning algorithms.
-- 💬 How to reach me: [Twitter - @sadab_wasim](https://twitter.com/sadab_wasim)
+- 💬 How to reach me: [Twitter - @sadab_wasim](https://twitter.com/sadab_wasim) [Medium - @sadabwasim](https://medium.com/@sadabwasim)
 
 **Languages and Tools:**  
 
