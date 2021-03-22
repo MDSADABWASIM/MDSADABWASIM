@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine learning.
-- ⚡ I’m currently learning and making projects on computer vision.
+- 🔭 I’m currently working as Sr. Flutter developer.
+- ⚡ I’m learning and making projects on Machine learning and Flutter.
 - 💬 How to reach me: [Twitter - @sadab_wasim](https://twitter.com/sadab_wasim) [Medium - @sadabwasim](https://medium.com/@sadabwasim)
 
 **Languages and Tools:**  
