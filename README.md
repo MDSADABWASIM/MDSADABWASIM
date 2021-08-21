@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Sadab wasim</h1>
+<h1 align="center">Hi 👋, I'm Md. Sadab Wasim</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
 - 🔭 I’m currently working on [blockchain based gaming app](https://gamyfi.org/home)
