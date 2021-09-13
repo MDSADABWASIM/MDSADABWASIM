@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain, ML and Flutter concepts**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim) (These days I mainly work with Gitlab).
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sadabwasim)
 
