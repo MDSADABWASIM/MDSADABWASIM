@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing small sounds in Flutter](https://medium.com/indian-coder/playing-small-sounds-in-flutter-344a5fc722c2?source=rss-51fd6254162------2)
+- [Onesignal notification with Flutter in a minute](https://medium.com/codechai/onesignal-notification-with-flutter-in-a-minute-3449fdf2c5f3?source=rss-51fd6254162------2)
 - [5 concepts every Flutter dev should know](https://medium.com/codechai/5-concepts-every-flutter-dev-should-know-48673ab074cb?source=rss-51fd6254162------2)
 - [Writing flutter package in an easy way](https://medium.com/indian-coder/writing-flutter-package-in-an-easy-way-dc1e7410637d?source=rss-51fd6254162------2)
-- [How to become a writer in Indian coder publication](https://medium.com/indian-coder/how-to-become-a-writer-in-indian-coder-publication-a80b9c673986?source=rss-51fd6254162------2)
-- [Flutter architecture that I adore](https://medium.com/indian-coder/flutter-architecture-that-i-adore-8139080abb?source=rss-51fd6254162------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
