@@ -3,7 +3,7 @@ on:
     push:
         branches: [ master ]
     schedule:
-        - cron: '0 13 * * 1'
+        - cron: '0 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
