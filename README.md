@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Speech to text in a minute](https://medium.com/indian-coder/speech-to-text-in-a-minute-e6d851f5e41e?source=rss-51fd6254162------2)
 - [Why did I choose Supabase over Firebase?](https://medium.com/indian-coder/why-did-i-choose-supabase-over-firebase-467a7cf9c18?source=rss-51fd6254162------2)
 - [Playing small sounds in Flutter](https://medium.com/indian-coder/playing-small-sounds-in-flutter-344a5fc722c2?source=rss-51fd6254162------2)
 - [Onesignal notification with Flutter in a minute](https://medium.com/codechai/onesignal-notification-with-flutter-in-a-minute-3449fdf2c5f3?source=rss-51fd6254162------2)
-- [5 concepts every Flutter dev should know](https://medium.com/codechai/5-concepts-every-flutter-dev-should-know-48673ab074cb?source=rss-51fd6254162------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
