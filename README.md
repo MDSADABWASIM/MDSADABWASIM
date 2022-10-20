@@ -16,10 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD with Supabase in Flutter](https://sadabwasim.medium.com/crud-with-supabase-in-flutter-dbe97fa0c15?source=rss-51fd6254162------2)
 - [5 oldest tips to write clean code.](https://medium.com/indian-coder/5-oldest-tips-to-write-clean-code-1c6b41fc7ef4?source=rss-51fd6254162------2)
 - [Speech to text in a minute](https://medium.com/indian-coder/speech-to-text-in-a-minute-e6d851f5e41e?source=rss-51fd6254162------2)
 - [Why did I choose Supabase over Firebase?](https://medium.com/indian-coder/why-did-i-choose-supabase-over-firebase-467a7cf9c18?source=rss-51fd6254162------2)
-- [Playing small sounds in Flutter](https://medium.com/indian-coder/playing-small-sounds-in-flutter-344a5fc722c2?source=rss-51fd6254162------2)
 <!-- BLOG-POST-LIST:END -->
 
 
