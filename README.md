@@ -40,6 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=highcontrast&include_all_commits=true&locale=en" alt="mdsadabwasim" />
 </p>
 
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
