@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Sadab Wasim</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Md. Sadab Wasim</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
 - 🔭 I’m currently working on [blockchain based gaming app](https://gamyfi.org/home)
@@ -40,4 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=highcontrast&include_all_commits=true&locale=en" alt="mdsadabwasim" />
 </p>
 
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
