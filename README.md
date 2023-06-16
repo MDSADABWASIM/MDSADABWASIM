@@ -39,7 +39,4 @@
 <h3 align="left">Github analytics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=highcontrast&include_all_commits=true&locale=en" alt="mdsadabwasim" />
 </p>
-
-![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
