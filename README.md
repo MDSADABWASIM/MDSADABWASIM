@@ -15,7 +15,8 @@
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->    
+- [Supercharge your development with Neovim](https://medium.com/indian-coder/supercharge-flutter-with-neovim-a-complete-setup-guide-cbe5cbf5b073)
 - [CRUD with Supabase in Flutter](https://sadabwasim.medium.com/crud-with-supabase-in-flutter-dbe97fa0c15?source=rss-51fd6254162------2)
 - [5 oldest tips to write clean code.](https://medium.com/indian-coder/5-oldest-tips-to-write-clean-code-1c6b41fc7ef4?source=rss-51fd6254162------2)
 - [Speech to text in a minute](https://medium.com/indian-coder/speech-to-text-in-a-minute-e6d851f5e41e?source=rss-51fd6254162------2)
