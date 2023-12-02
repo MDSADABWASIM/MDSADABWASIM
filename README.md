@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, ML and Dapp**
 
-- 📫 How to reach me **mdsadabwasim007@gmail.com**
+- 📫 How to reach me **sadabwasim@gmail.com**
 
 
 ### Blogs posts
