@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Md. Sadab Wasim</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-- 🔭 I’m currently working on [blockchain based gaming app](https://gamyfi.org/home)
+- 🔭 I’m currently working on [cargo delivery app](https://camio.app/en)
 
-- 🌱 I’m currently learning **Blockchain, ML and Flutter concepts**
+- 🌱 I’m currently learning **Blockchain, ML and Golang concepts**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim) (These days I mainly work with Gitlab).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim) (These days I mainly work with Azure).
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sadabwasim)
 
