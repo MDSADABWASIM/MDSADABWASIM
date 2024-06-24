@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Md. Sadab Wasim</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 🔭 I’m currently working on a U.S based [cargo delivery app](https://camio.app/en)
+- 🔭 I’m currently working on a Canada based [Trip planning app](https://www.pilotplans.com)
 
-- 🌱 I’m currently learning **Blockchain, ML and Golang concepts**
+- 🌱 I’m currently learning **Web and React native concepts**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim) (These days I mainly work with Azure).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mdsadabwasim) and [GitLab](https://gitlab.com/mdsadabwasim)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sadabwasim)
 
-- 💬 Ask me about **Flutter, ML and Dapp**
+- 💬 Ask me about **Flutter, RN and Dapp**
 
 - 📫 How to reach me **sadabwasim@gmail.com**
 
