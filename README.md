@@ -49,11 +49,6 @@
   <a href="https://reactnative.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react native" width="40" height="40"/> </a>
 </p>
 
-
-<h3 align="left">Github analytics:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=highcontrast&include_all_commits=true&locale=en" alt="mdsadabwasim" />
-</p>
-
 <p align="center">
   <source
     media="(prefers-color-scheme: dark)"
@@ -74,19 +69,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img width="425" align="right" src="/github-metrics.svg" />
-  </a>
+ 
   <img
     width="380"
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=calm"
-  />
-   <a href="https://wakatime.com/@9763e2a8-f66d-42c7-8668-f6ba4332829e">
-  <img
-    width="380"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Night_Cat&layout=compact&theme=calm&langs_count=20&custom_title=Total%20coding%20time%20since%20July%202023"
   />
   <br />
   <img
@@ -96,7 +83,4 @@
   />
 </p>
 
-<p align="center">
-      <img align="center" src="https://komarev.com/ghpvc/?username=mdsadabwasim&style=flat-square&base=500" />
-</p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
