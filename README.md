@@ -33,29 +33,32 @@
 </p>
 
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">Languages</h3>
+<p align="left"> 
+  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Framework & tools</h3>
 <p align="left"> 
   <a href="https://neovim.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://developer.apple.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="ios" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-   <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactnative.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react native" width="40" height="40"/> </a>
+</p>
 
   <img
     width="380"
     align="left"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+neovim+btw."
   />
-
-</p>
-
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
