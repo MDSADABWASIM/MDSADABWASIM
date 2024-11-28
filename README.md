@@ -49,19 +49,10 @@
   <a href="https://reactnative.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react native" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
- 
-  <img
-    width="380"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mdsadabwasim&show_icons=true&theme=calm"
-  />
-  <br />
   <img
     width="380"
     align="left"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+neovim+btw."
   />
-</p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsadabwasim&" alt="mdsadabwasim" /></p> -->
