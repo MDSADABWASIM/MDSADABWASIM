@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sadabwasim)
 
-- 💬 Ask me about **Flutter, RN and Dapp**
+- 💬 Ask me about **Flutter, React native and Dapp**
 
 - 📫 How to reach me **sadabwasim@gmail.com**
 
